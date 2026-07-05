@@ -111,6 +111,22 @@ This regenerates the synthetic dataset, runs the full ABC + RFM + status classif
 
 ---
 
+## 🧰 Skills & Tools Used
+
+**BI & Visualisation**
+`Looker Studio` · `ERPNext Insights` · `KPI Dashboard Design` · `Executive reporting` · `matplotlib` (analysis dashboard)
+
+**Data & Programming**
+`Python` · `pandas` · `NumPy` · `Excel (ABC / RFM modelling)` · `Data cleaning & transformation`
+
+**Analytics & Segmentation**
+`Customer Churn Analysis` · `RFM Segmentation` · `ABC Analysis` · `Purchase-gap / recency analysis` · `Revenue recovery analysis` · `Customer lifecycle status modelling`
+
+**Business Analysis**
+`Territory-wise analysis (5 regions)` · `Re-engagement strategy` · `KPI definition` · `Stakeholder reporting` · `Data-driven decision support`
+
+---
+
 ## 🗂️ Folder Structure
 
 ```
